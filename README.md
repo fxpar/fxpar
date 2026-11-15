@@ -39,4 +39,21 @@ J'ai appris Excel, Word et Moodle à des milliers d'étudiants et de formateurs.
 
 💬 Une idée d'outil, un besoin dans votre organisme ou votre école ? Ouvrez une *issue* sur le dépôt concerné ou écrivez-moi sur LinkedIn.
 
-*🇬🇧 Office-skills trainer using AI to turn spreadsheets and repetitive tasks into simple browser tools. Most projects have an English version.*
+---
+
+### 🇬🇧 In English
+
+**I'm an office-skills trainer (Excel, Word, Moodle). I use AI to turn spreadsheets and repetitive tasks into simple tools that run in the browser, without being a developer.**
+
+A few projects with an English version or an international audience:
+
+| Tool | In one sentence |
+|---|---|
+| [MicroLearn Studio](https://fxpar.github.io/micro-learning-app/) | Turn a Markdown course into an interactive slideshow, exportable as a SCORM package for any LMS. |
+| [abcjs-fx](https://fxpar.github.io/abcjs-fx/) | A drop-in ABC music player and editor built on abcjs, with practice tools. |
+| [abcjs-tabs](https://github.com/fxpar/abcjs-tabs) | Hand-written guitar and ukulele tablature for abcjs. |
+| [Ukulele Latino](https://fxpar.github.io/latin-ukulele/) | A virtual band plays along with you: 50 Latin rhythm exercises for ukulele. |
+| [Teaching tools (edu-fpar)](https://github.com/edu-fpar) | Star Nav, Capital Lab, Perspective Grid and more interactive teaching tools. |
+
+🔒 My web tools run in your browser: your files are never sent to a server.
+💬 Ideas, questions or a need in your school or company? Open an *issue* or contact me on LinkedIn.
