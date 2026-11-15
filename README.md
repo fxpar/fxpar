@@ -1,4 +1,4 @@
-### Bonjour, je suis François-Xavier 👋
+### Bonjour, je suis François 👋
 
 **Formateur en bureautique, j'utilise l'IA pour transformer des fichiers Excel et des tâches répétitives en vrais outils, sans être développeur.**
 
